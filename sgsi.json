@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/21.1.14/miui_RAPHAEL_21.1.14_979131bba9_11.0.zip",
+  "rom_url": "http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2118_A_1.8.0-update-full_1622551232.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "miui",
+  "rom_type": "vivo",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
-  "upload_transfer": true,
-  "upload_release": false,
+  "upload_transfer": false,
+  "upload_release": true,
   "use_7zip": true,
   "use_zip": false
 }
